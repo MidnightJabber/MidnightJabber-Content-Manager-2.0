@@ -4,8 +4,8 @@ MidnightJabber Content Manager 2.0
 
 This App provides Developers to add content easily on the website, Admins to monitor website activity and Bloggers to add and browse through content.
 
-*Connectivity with the Database has been established
+*Connectivity with the Database has been established <br>
 *Login Feature is fully functional
 
 ![Alt Text](https://github.com/MidnightJabber/MidnightJabber-Content-Manager-2.0/blob/master/images/Screen%20Shot%202014-10-29%20at%206.34.18%20PM.png)
-(Login Window)
+<br>(Login Window)

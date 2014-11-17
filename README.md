@@ -1,6 +1,7 @@
 MidnightJabber Content Manager 2.0
 ==================================
-(Still a Workign Progress - Under Construction)
+-Demo Funcitonal-
+-Not Operative-
 
 This App provides Developers to add content easily on the website, Admins to monitor website activity and Bloggers to add and browse through content.
 
